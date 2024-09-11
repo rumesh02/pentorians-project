@@ -1,2 +1,2 @@
 # pentorians-project
-Harvest management system
+Harvest Management System
